@@ -1,0 +1,41 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "app/assets/fonts/GratoGrotesk-Black.ttf",
+      "sha1": "b97a1621e8dc99c2f33e8013dca4ed21f66b3041"
+    },
+    {
+      "path": "app/assets/fonts/GratoGrotesk-Bold.ttf",
+      "sha1": "9c47f187436e8841d3a4169421decb73b921b051"
+    },
+    {
+      "path": "app/assets/fonts/GratoGrotesk-Hair.ttf",
+      "sha1": "3aab1b5e9604e43f342f02cbd5edde6d602617f2"
+    },
+    {
+      "path": "app/assets/fonts/GratoGrotesk-Light.ttf",
+      "sha1": "5f0c628aaed95482eb187a559621172a228b2222"
+    },
+    {
+      "path": "app/assets/fonts/GratoGrotesk-Medium.ttf",
+      "sha1": "04008a7ad59a44e1fe0cfcb8c5b5bc1fb625b027"
+    },
+    {
+      "path": "app/assets/fonts/GratoGrotesk-Regular.ttf",
+      "sha1": "69ba6312cdd23132c1c11a63c7670b12afdfabd0"
+    },
+    {
+      "path": "app/assets/fonts/GratoGrotesk-Super.ttf",
+      "sha1": "2394fd555a0966b2a552bb9cf118de31996c9092"
+    },
+    {
+      "path": "app/assets/fonts/GratoGrotesk-Thin.ttf",
+      "sha1": "e08a395353a3b74bf9831149923006353cc622a0"
+    },
+    {
+      "path": "app/assets/fonts/GratoGrotesk-xLight.ttf",
+      "sha1": "9d6d97e56e2b13e67c1360ec52a70a6a4f15c9da"
+    }
+  ]
+}
